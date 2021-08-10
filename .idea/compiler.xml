@@ -9,5 +9,8 @@
         <module name="sistemadecorreosmasivosweb" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sistemadecorreosmasivosweb" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
